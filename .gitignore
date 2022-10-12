@@ -1,2 +1,3 @@
 # Project exclude paths
+.idea
 /node-mongo-app/app/node_modules/
